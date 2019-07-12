@@ -4,6 +4,11 @@
 #going_to_the_right{
   margin-left: 50px;
 }
-#x{
-  margin-left: 50px; margin-right: 100px;
+#b{
+  border: 5px solid green;
+}
+#m{
+  position: absolute;
+  width:100%;
+  bottom: 10px
 }
